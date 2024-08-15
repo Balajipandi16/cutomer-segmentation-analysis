@@ -13,8 +13,7 @@
   - Loaded CSV data to analyze customer demographics and product performance.
   - Explored and manipulated data, focusing on customer segments and product categories.
 ---
-
-# Project Portfolio: Retail Data Analysis
+ Retail Data Analysis
 
 Welcome to my project portfolio! This repository showcases my work on analyzing retail transaction and customer data to derive valuable business insights. Below are detailed descriptions of the two key projects included in this portfolio.
 
@@ -36,8 +35,6 @@ This project focuses on analyzing transaction data from a retail store chain (QV
 ### Results
 The analysis provided actionable insights into customer behavior, helping to optimize product placement and marketing strategies.
 
-### Notebook
-[Retail Transaction Analysis](link-to-notebook-https://github.com/Balajipandi16/cutomer-segmentation-analysis/blob/main/quantium%20task%201.ipynb)
 
 ---
 
@@ -57,8 +54,6 @@ This project extends the analysis to customer demographics and product segmentat
 ### Results
 The project provided a deep understanding of customer preferences, enabling personalized marketing campaigns and product recommendations.
 
-### Notebook
-[Customer and Product Analysis](link-to-notebook)
 
 
 
