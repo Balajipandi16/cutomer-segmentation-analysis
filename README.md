@@ -37,7 +37,7 @@ This project focuses on analyzing transaction data from a retail store chain (QV
 The analysis provided actionable insights into customer behavior, helping to optimize product placement and marketing strategies.
 
 ### Notebook
-[Retail Transaction Analysis](link-to-notebook)
+[Retail Transaction Analysis](link-to-notebook-https://github.com/Balajipandi16/cutomer-segmentation-analysis/blob/main/quantium%20task%201.ipynb)
 
 ---
 
